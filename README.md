@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Arya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="left"> Hi, I'm Arya! 😁 </h1>
 <h3 align="left"> 👩‍💻 About Me:</h3>
 
   <p align="left">- 🔭 I’m currently working with Flutter Dev. </p>
