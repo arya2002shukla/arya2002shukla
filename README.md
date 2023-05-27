@@ -63,9 +63,7 @@
  
 <a> <img src="https://github-readme-stats.vercel.app/api?username=arya2002shukla&show_icons=true&theme=gotham" alt="arya2002shukla" /><a> <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=arya2002shukla&show_icons=true&theme=gotham" alt="arya2002shukla" /></a> 
-<br>![Top Langs]
-
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=arya2002shukla&theme=gotham)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arya2002shukla&theme=gotham)</br>
   
 <hr>
  
