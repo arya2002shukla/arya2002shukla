@@ -1,9 +1,9 @@
 <h1 align="left"> Hi, I'm Arya! 😁 </h1>
 <h3 align="left"> 👩‍💻 About Me:</h3>
 
-  <p align="left">- 🔭 I’m currently working with Flutter Dev. </p>
-  <p align="left">- 🌱 I’m currently learning Data Analytics + Python. </p>
-  <p align="left">- 👯 I’m looking to collaborate on any Frontend Projects.</p>
+  <p align="left">- 🔭 I’m currently working as a Data Scientist </p>
+  <p align="left">- 🌱 I'm a ML enthusiast. </p>
+  <p align="left">- 👯 I’m looking to collaborate on any Data Analytic Projects.</p>
   <p align="left">- ⚡ Fun fact: Your nose gets warmer when you lie. </p>
 <hr>
 
@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/arya_shukla07/">
   <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:arya2002shukla@gmail.com">
+<a href="mailto:arya2002shukla07@gmail.com">
   <img align="left" alt="Gmail" width="100px" src="https://img.shields.io/badge/Gmail-B6537A?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br>
